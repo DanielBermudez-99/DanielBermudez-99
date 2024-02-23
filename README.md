@@ -12,6 +12,7 @@ I am passionate about collaborating on exciting projects that challenge my creat
 <div align="start" text-aling="justify">
   <p> I have basic knowledge of Frontend and Backend. With Frontend technologies, I have worked in the design and layout of websites, administering and managing data visually with React.  Regarding the Backend, I have worked on projects based on the implementation of frameworks such as Spring. Implementing relational databases with MySQL and authentication systems with Spring Security and JWT.</p>
 </div>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
