@@ -1,6 +1,6 @@
 <h2 align="center">Hi 🤖! My name is Daniel and I'm a Software Developer</h2>
 <div align="center">
-  <p> - </p>
+  <p> -Hello, my name is Daniel and I'm from Bogota Colombia. I'm 19 years old and I'm a software developer, I invite you to know a little more about me.</p>
 </div>
 
 ###
