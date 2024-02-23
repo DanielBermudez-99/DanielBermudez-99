@@ -8,15 +8,6 @@ I am passionate about collaborating on exciting projects that challenge my creat
 
 ###
 
-<h2 align="center">My statistics 💥</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBermudez-99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DanielBermudez-99&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBermudez-99&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="center">Languages-Framework-Tools ⚡</h2>
 <div align="start" text-aling="justify">
   <p> I have basic knowledge of Frontend and Backend. With Frontend technologies, I have worked in the design and layout of websites, administering and managing data visually with React.  Regarding the Backend, I have worked on projects based on the implementation of frameworks such as Spring. Implementing relational databases with MySQL and authentication systems with Spring Security and JWT.</p>
@@ -51,6 +42,15 @@ I am passionate about collaborating on exciting projects that challenge my creat
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
+###
+
+<h2 align="center">My statistics 💥</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBermudez-99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DanielBermudez-99&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBermudez-99&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
