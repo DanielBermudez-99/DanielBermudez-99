@@ -1,6 +1,10 @@
 <h2 align="center">Hi 🤖! My name is Daniel and I'm a Software Developer</h2>
 <div align="center">
-  <p> -Hello, my name is Daniel and I'm from Bogota Colombia. I'm 19 years old and I'm a software developer, I invite you to know a little more about me.</p>
+  <p> - Hello! My name is Daniel and I'm from Bogota, Colombia. At 19 years old, I consider myself a passionate software developer, always looking for new ways to create innovative and efficient solutions. My fascination for technology started at an early age, and since then I have been immersed in the world of software development.
+
+In my journey as a developer, I have explored a variety of technologies and programming languages, which has allowed me to acquire a diverse set of skills. From web development to mobile application programming, I am always up for new challenges and continuously learning.
+
+I am passionate about collaborating on exciting projects that challenge my creativity and technical skills. I strongly believe in the power of teamwork and collaboration, and enjoy contributing fresh ideas and innovative solutions.</p>
 </div>
 
 ###
