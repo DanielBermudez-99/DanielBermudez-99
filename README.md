@@ -1,7 +1,10 @@
-<h2 align="center">Hi 👋! My name is Daniel and I'm a Software Developer</h2>
+<h2 align="center">Hi 🤖! My name is Daniel and I'm a Software Developer</h2>
+<div align="center">
+  <p> - </p>
+</div>
 
 ###
-<h2 align="center">My statistics</h2>
+<h2 align="center">My statistics 💥</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielBermudez-99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=DanielBermudez-99&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -9,7 +12,7 @@
 </div>
 
 ###
-<h2 align="center">Languages-Framework-Tools</h2>
+<h2 align="center">Languages-Framework-Tools ⚡</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
