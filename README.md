@@ -58,7 +58,7 @@ I am passionate about collaborating on exciting projects that challenge my creat
 
 ###
 
-<img src="https://raw.githubusercontent.com/DanielBermudez-99/DanielBermudez-99/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DanielBermudez-99/DanielBermudez-99/github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
