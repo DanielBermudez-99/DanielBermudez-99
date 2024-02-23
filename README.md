@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Daniel and I'm a Software Developer</h2>
+<h2 align="center">Hi! My name is Daniel and I'm a Software Developer 🤖</h2>
 <div align="start" text-aling="justify">
   <p> Hello!!! My name is Daniel and I'm from Bogota, Colombia. At 19 years old, I consider myself a passionate software developer, always looking for new ways to create innovative and efficient solutions. My fascination for technology started at an early age, and since then I have been immersed in the world of software development.
 
