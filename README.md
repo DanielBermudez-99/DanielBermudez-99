@@ -17,6 +17,10 @@ I am passionate about collaborating on exciting projects that challenge my creat
 
 ###
 
+<div align="start" text-aling="justify">
+  <p> I have basic knowledge of Frontend and Backend. With Frontend technologies, I have worked in the design and layout of websites, administering and managing data visually with React.</p>
+</div>
+
 <h2 align="center">Languages-Framework-Tools ⚡</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
