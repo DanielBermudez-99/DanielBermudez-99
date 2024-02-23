@@ -1,5 +1,5 @@
-<h2 align="center">Hi 🤖! My name is Daniel and I'm a Software Developer</h2>
-<div align="start" text-aling="justtify">
+<h2 align="center">Hi! My name is Daniel and I'm a Software Developer</h2>
+<div align="start" text-aling="justify">
   <p> Hello!!! My name is Daniel and I'm from Bogota, Colombia. At 19 years old, I consider myself a passionate software developer, always looking for new ways to create innovative and efficient solutions. My fascination for technology started at an early age, and since then I have been immersed in the world of software development.
 
 In my journey as a developer, I have explored a variety of technologies and programming languages, which has allowed me to acquire a diverse set of skills. From web development to mobile application programming, I am always up for new challenges and continuously learning.
