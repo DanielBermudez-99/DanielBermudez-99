@@ -5,6 +5,7 @@
 In my journey as a developer, I have explored a variety of technologies and programming languages, which has allowed me to acquire a diverse set of skills. From web development to mobile application programming, I am always up for new challenges and continuously learning.
 I am passionate about collaborating on exciting projects that challenge my creativity and technical skills. I strongly believe in the power of teamwork and collaboration, and enjoy contributing fresh ideas and innovative solutions.</p>
 </div>
+
 ###
 
 <h2 align="center">My statistics 💥</h2>
