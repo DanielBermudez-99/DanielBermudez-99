@@ -42,6 +42,9 @@ I am passionate about collaborating on exciting projects that challenge my creat
 ###
 
 <h2 align="center">Social 🔔📱🔥 </h2>
+<div align="start" text-aling="justify">
+  <p> You can follow my development and learning process through my social networks, where you will find topics related to projects, experiences and other items.</p>
+</div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
